@@ -48,7 +48,7 @@ On [observed signers](https://www.kaggle.com/grassknoted/asl-alphabet)
 | Transfer Learning CNN with Data Augmentation | 94.95%   | 0.951     | 0.949  | 0.949   |
 | Ensemble Model                               | 99.99%   | 0.999     | 0.999  | 0.999   |
 
-On [unobserved signers](https://github.com/aniketsharma00411/sign-language-to-text-translator/tree/main/asl-alphabet)
+On [unobserved signers](https://github.com/aniketsharma00411/sign-language-to-text-translator/tree/main/asl_alphabets)
 
 | Model                                        | Accuracy | Precision | Recall | F-Score |
 | -------------------------------------------- | -------- | --------- | ------ | ------- |
